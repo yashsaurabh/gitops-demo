@@ -45,4 +45,5 @@ spec:
       volumes:
       - name: nginx-proxy-config
         configMap:
-          name: nginx-conf
+          name: nginx-con
+
